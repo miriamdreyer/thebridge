@@ -3,3 +3,5 @@
 #*.xlsx
 PROF_*
 .ipynb_checkpoints
+**/*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
